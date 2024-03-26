@@ -16,6 +16,7 @@ A crucial aspect of the visualization was the inclusion of a legend, providing c
 ![alt text](Earthquake_visual.png)
 
 Part 2: Gathering and Plotting More Data (Optional) (to be completed at a later date)
+
 In the optional second phase of the project, we sought to enrich the earthquake visualization by incorporating data on tectonic plate boundaries. This additional layer of information aimed to illustrate the relationship between tectonic activity and seismic events, offering deeper insights into Earth's dynamic processes.
 
 To achieve this, we obtained tectonic plate boundary data from external sources and seamlessly integrated it into the existing visualization. Users were provided with multiple base map options, allowing them to tailor the backdrop to their preferences. Layer controls were implemented to enable users to toggle the visibility of earthquake data and tectonic plate boundaries independently, enhancing exploration and analysis capabilities.
